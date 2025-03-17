@@ -1,3 +1,6 @@
+
+TASKS
+
 1. Create a Simple Profile Card
    Design a responsive profile card using HTML and CSS. The card should include:
    • A profile picture
